@@ -1,0 +1,11 @@
+# DS store created on a mac
+.DS_Store
+._.DS_Store
+**.DS_Store
+**/._.DS_Store
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Temporary files ending with ~
+*~
